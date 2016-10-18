@@ -1,0 +1,7 @@
+google:
+  cliendId: 1011086681758-dpv7fk7jva7fd7r0vl972e3tevtrvos4.apps.googleusercontent.com
+  clientSecret: EZST1J_ySOSn4NOso9ZiDXSx
+  authCallbackUri: http://localhost:8080/oauth2callback
+  accessTokenUri: https://www.googleapis.com/oauth2/v4/token
+  userAuthorizationUri: https://accounts.google.com/o/oauth2/auth
+
